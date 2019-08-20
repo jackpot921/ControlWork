@@ -10,6 +10,7 @@ namespace ControlWork
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
